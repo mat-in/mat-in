@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Expenso - Expense tracker<br>👯 I’m looking to collaborate on Android projects<br>🤝 I’m looking for help with Expenso<br>🌱 I’m currently learning Firebase - ml kit<br>💬 Ask me about Android development<br>⚡ Fun fact I am always open to contribute to the best of my knowledge
+🔭 I’m currently working on Expenso - Expense tracker<br>👯 I’m looking to collaborate on Android projects<br>🤝 I’m looking for help with Expenso<br>🌱 I’m currently learning Firebase - ml kit<br>💬 Ask me about Android development<br>⚡ Fun fact I am enjoying this
 
 
 ## 🌐 Socials:
